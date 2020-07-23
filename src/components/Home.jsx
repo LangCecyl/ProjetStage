@@ -8,8 +8,11 @@ function Home() {
     <div className="Home">
       <NavbarMenuBurger />
       <h2>Bienvenue sur mon portfolio</h2>
-      <img url="https://www.ynov.com/wp-content/uploads/2018/01/banniere_ydays.png" alt="zz"/>
+      <div>
+        <img className="basDePage" src="https://www.ynov.com/wp-content/uploads/2018/01/banniere_ydays.png" alt="zz" />
+      </div>
     </div>
+
 
   );
 }

@@ -15,12 +15,9 @@ p{
 .CategorieCV{
     background-color: #5d5d5d;
     color: white;
-    padding: 1%;
-    margin-right: 60%;
-    margin-left: 5%;
-    margin-top: 1%;
+    padding: 1rem  ;
     font-weight: 900;
-    border-radius: 2rem;
+    border-radius: 1rem;
     text-align: center;
 }
 
@@ -31,11 +28,11 @@ p{
 
 .CadreCompetence{
     border: solid #575757;
-    margin-left: 10%;
-    margin-right: 40%;
-    margin-top: 1%;
-    margin-bottom: 1%;
-    padding: 1%;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
 }
 .deuxiemeLigne{
     padding-left: 2%;

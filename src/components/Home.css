@@ -14,12 +14,10 @@ h2 {
     background-color: #242424;
     color: #fff;
   }
-  
-.Button {
-    margin: 1vh;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
-  }
-  
-.TextBtn {
-    color: #fff;
-  }
+
+
+.basDePage{
+    max-width: 100%;
+    height: auto;
+    margin-top: 10%;
+}
