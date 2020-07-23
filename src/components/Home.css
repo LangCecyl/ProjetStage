@@ -1,0 +1,25 @@
+h1 {
+    background-color: #242424;
+    color: #fff;
+    flex: 1;
+    padding-top: 2vh;
+  }
+  
+h2 {
+    padding-top: 2vh;
+  }
+  
+.Home {
+    flex: 1;
+    background-color: #242424;
+    color: #fff;
+  }
+  
+.Button {
+    margin: 1vh;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+.TextBtn {
+    color: #fff;
+  }

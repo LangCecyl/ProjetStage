@@ -1,0 +1,37 @@
+.NavbarContent {
+    display: flex;
+    align-items: baseline;
+    background-color: #fff !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .NavbarTitle {
+    list-style: none;
+    font-size: 1.7rem;
+    padding-right: 1vh;
+    color: rgba(0, 0, 0, 0.9) !important;
+  }
+  
+  .NavbarLink {
+    font-size: 1.2rem;
+    padding: 1vh;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .NavbarTitle:hover {
+    color: rgba(0, 0, 0, 0.9) !important;
+  }
+  
+  .NavbarLink:hover {
+    color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .navbar-collapse {
+    display: flex;
+  }
+  
+  /*---------For change the img of menu burger---------*/
+  /* .navbar-toggler-icon {
+    background-image: url("https://user-images.githubusercontent.com/57908921/85213243-f7434c00-b35b-11ea-84c4-6dca0b284e04.png") !important;
+  } */
+  

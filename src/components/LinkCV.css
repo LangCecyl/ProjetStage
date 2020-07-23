@@ -1,0 +1,42 @@
+.CV {
+    text-align: left;
+    margin: 5%;
+}
+.titleCV{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 600;
+    margin-bottom: 3%;
+}
+p{
+    margin-left: 10%;
+}
+
+.CategorieCV{
+    background-color: #5d5d5d;
+    color: white;
+    padding: 1%;
+    margin-right: 60%;
+    margin-left: 5%;
+    margin-top: 1%;
+    font-weight: 900;
+    border-radius: 2rem;
+    text-align: center;
+}
+
+.dateCV{
+    color: #777777;
+}
+/*Competence pro*/
+
+.CadreCompetence{
+    border: solid #575757;
+    margin-left: 10%;
+    margin-right: 40%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 1%;
+}
+.deuxiemeLigne{
+    padding-left: 2%;
+}
