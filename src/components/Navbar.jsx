@@ -13,30 +13,32 @@ const NavbarReactstrap = () => {
       <Navbar color="light" light expand="md" className="NavbarContent">
         <NavItem>
           <Link to="/" className="NavbarTitle">
-            Cécyl LANG
+            <section class="ds-header__logo test">
+              <div class="ds-img ds-img--logo" role="img" aria-label="Bpifrance"></div>
+            </section>
           </Link>
         </NavItem>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
             <NavItem>
-              <Link to="/linkCV" className="NavbarLink">
-                CV
+              <Link to="/Sites" className="NavbarLink">
+                les Sites
               </Link>
             </NavItem>
             <NavItem>
-              <Link to="/linkContact" className="NavbarLink">
-                Contact
+              <Link to="/Cookies" className="NavbarLink">
+                Les Cookies
               </Link>
             </NavItem>
             <NavItem>
-              <Link to="/linkTechno" className="NavbarLink">
-                Techno
+              <Link to="/AddSite" className="NavbarLink">
+                Ajouter un Site
               </Link>
             </NavItem>
             <NavItem>
-              <Link to="/linkProjets" className="NavbarLink">
-                Projets
+              <Link to="/AddCookie" className="NavbarLink">
+                Ajouter un Cookie
               </Link>
             </NavItem>
           </Nav>

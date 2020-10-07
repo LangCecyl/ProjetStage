@@ -1,17 +1,18 @@
 h1 {
-    background-color: #242424;
+    background-color:#54514D;
     color: #fff;
-    flex: 1;
     padding-top: 2vh;
+    padding-bottom: 2vh;
   }
   
 .titleHome {
     padding-top: 2vh;
+    padding-bottom: 2vh;
   }
   
 .Home {
     flex: 1;
-    background-color: #242424;
+    background-color:rgb(255, 205, 0);
     color: #fff;
   }
 
@@ -21,3 +22,24 @@ h1 {
     height: auto;
     margin-top: 1%;
 }
+
+.homeCaseH{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 4%;
+  margin: 6%;
+}
+
+.homeCaseB{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 6%;
+}
+
+section {
+  width : 20rem;
+  height: 10rem;
+}
+/* Faire un @media pour la section*/

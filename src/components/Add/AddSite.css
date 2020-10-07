@@ -1,0 +1,10 @@
+.add {
+    padding: 2%;
+    margin: 2%;
+    border: dashed #54514D;
+    background-color:  rgb(255, 205, 0);
+  }
+.formSite{
+  margin-left: 3%;
+  margin-right: 3%;
+}
